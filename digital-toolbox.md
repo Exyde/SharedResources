@@ -4,15 +4,16 @@ Curated tools, learning resources, and references across dev, art, 3D, audio, an
 
 ## Programming
 
-| Name | Type | Notes | Quality |
-|---|---|---|---|
-| [Catlike Coding](https://catlikecoding.com/) | Tutorials / Docs | In depth precious content about Unity Engine  | 5/5 |
-| [Keijiro Takahashi](https://github.com/keijiro) | Tech Art, VFX, Unity | Tech Art Monster  | 4.5/5 |
-| [Game Programming Patterns](https://gameprogrammingpatterns.com/) | Architecture | | 4.5/5 |
-| [Book of Shaders](https://thebookofshaders.com/) | Shaders | Shader Katas ;) | 5/5 |
-| [LearnCPP](https://www.learncpp.com/) | C++ course | | |
-| [TheCherno](https://www.youtube.com/@TheCherno) | Engine, OpenGL, C++ | About programming your own game engine in C++ | |
-| [Nature of Code](https://natureofcode.com/) | Learning | Various topics, greatly explains. Check also youtube channel ! | 5/5 |
+| Name                                                              | Type                 | Notes                                                          | Quality |
+| ----------------------------------------------------------------- | -------------------- | -------------------------------------------------------------- | ------- |
+| [Catlike Coding](https://catlikecoding.com/)                      | Tutorials / Docs     | In depth precious content about Unity Engine                   | 5/5     |
+| [Keijiro Takahashi](https://github.com/keijiro)                   | Tech Art, VFX, Unity | Tech Art Monster                                               | 4.5/5   |
+| [Game Programming Patterns](https://gameprogrammingpatterns.com/) | Architecture         |                                                                | 4.5/5   |
+| [Book of Shaders](https://thebookofshaders.com/)                  | Shaders              | Shader Katas ;)                                                | 5/5     |
+| [LearnCPP](https://www.learncpp.com/)                             | C++ course           |                                                                |         |
+| [TheCherno](https://www.youtube.com/@TheCherno)                   | Engine, OpenGL, C++  | About programming your own game engine in C++                  |         |
+| [Nature of Code](https://natureofcode.com/)                       | Learning             | Various topics, greatly explains. Check also youtube channel ! | 5/5     |
+| [Public Apis](https://github.com/public-apis/public-apis)         | Free API List        | Banger                                                         | 5/5     |
 
 ## Math
 
@@ -71,9 +72,16 @@ Curated tools, learning resources, and references across dev, art, 3D, audio, an
 | [MakerCase](https://www.makercase.com/) | Laser cutting models | 5/5 |
 | [SwissTransfer](https://www.swisstransfer.com/fr) | File transfer | | 
 
-## Misc / Unknown
+## Misc / Unknown / To classify
 
 - [QLC+](https://www.qlcplus.org/) — DMX lighting control
 - [EbSynth](https://ebsynth.com/) — Video stylization
 - [Maxime Touroute — Live Maker](https://maximetouroute.com/fr/live-maker/) — Live performance tool
 - [OSINT FR — Tools](https://osintfr.com/outils/) — OSINT toolkit
+- GameRig CG Dive 
+- ReShade
+- Pixie Editor 
+- Insta Mat
+- Dekogon / Megascan / Brushify 
+- Flowscape
+- Houdini
