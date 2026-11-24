@@ -85,3 +85,17 @@ Curated tools, learning resources, and references across dev, art, 3D, audio, an
 - Dekogon / Megascan / Brushify 
 - Flowscape
 - Houdini
+- [Spout (Zeal)](https://spout.zeal.co/)
+- [VFXMeshLab](https://github.com/PudinKiller/VFXMeshLab)
+- [pocket-tts (Kyutai)](https://github.com/kyutai-labs/pocket-tts)
+- [they_live_adblocker](https://github.com/davmlaw/they_live_adblocker)
+- [career-ops](https://github.com/santifer/career-ops)
+- [Mesh2motion](https://mesh2motion.org) — animals rigging
+- Monstermash — animals
+- MediaPipe
+- Blender MCP
+- INKFORM
+- [Algorithm Visualizer](https://algorithm-visualizer.org/)
+- Claude Code Plugin — "Understand Anything"
+- [claude-carbon methodology](https://github.com/gwittebolle/claude-carbon/blob/main/METHODOLOGY.md)
+- [Wario Style Synth](https://www.wario.style/)
