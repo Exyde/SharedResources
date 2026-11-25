@@ -15,5 +15,6 @@ Cheers !
 ## Contents
 
 - **[Digital Toolbox](./digital-toolbox.md)** — Curated tools, learning resources, and references across gamedev, art, 3D, audio, and web.
+- **[Datalink](./datalink.md)** — Curated Url collection.
 
 ---
