@@ -99,3 +99,24 @@ Curated tools, learning resources, and references across dev, art, 3D, audio, an
 - Claude Code Plugin — "Understand Anything"
 - [claude-carbon methodology](https://github.com/gwittebolle/claude-carbon/blob/main/METHODOLOGY.md)
 - [Wario Style Synth](https://www.wario.style/)
+
+### Installed Tools on a New Setup
+- Blender
+- Git
+- Krita
+- PureRef
+- Python
+- ImageMagick
+- WinScp
+- Putty
+- Obsidian
+- WizTree
+- Everything
+- Spotifast
+- Shotcut
+- ShareX
+- OSB Studio
+- FFmpeg
+- Flux
+- Zed
+- Ccleaner
